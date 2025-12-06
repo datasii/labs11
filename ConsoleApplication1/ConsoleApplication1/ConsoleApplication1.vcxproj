@@ -125,8 +125,11 @@
   <ItemGroup>
     <ClCompile Include="binary.cpp" />
     <ClCompile Include="bubbleSort.cpp" />
+    <ClCompile Include="centeredInsertionSort.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="countingSort.cpp" />
+    <ClCompile Include="quadraticSelectionSort.cpp" />
+    <ClCompile Include="quickSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="kek.h" />
